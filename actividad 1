@@ -1,0 +1,18 @@
+html
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- Llenar los datos para: Title y Metadata -->
+    <title>Unidad 1 | Actividad 01</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <meta charset="utf-8">
+    <meta name="Autor" content="Esquivel Ortiz Sebastian">
+    <meta name="Fecha" content="Miércoles 05 de Febrero de 2025">
+    <meta name="Descripción" content="Hola mundo">
+</head>
+<body>
+    <!-- Cambiar el título y colocar el contenido aquí -->
+    <h1>Unidad 1 | Actividad 01 :: Tema (Estructura HTML5)</h1>
+    Hola mundo!!!
+</body>
+</html>
