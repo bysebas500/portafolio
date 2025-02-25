@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <title>Unidad 1 | Actividad 09</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <meta charset="utf-8">
+    <meta name="Autor" content="Sebastián Esquivel Ortiz">
+    <meta name="Fecha" content="18 de febrero de 2025">
+    <meta name="Descripción" content="Formatos">
+</head>
+<body>
+    <h1>Unidad 1 Actividad 09: Tema (Formatos)</h1>
+
+    <p>Address: <address>Texto con formato address</address></p>
+    <p>Small: <small>Texto con formato small</small></p>
+    <p>Cite: <cite>Texto con formato cite</cite></p>
+    <p>Blockquote: <blockquote>Texto con formato blockquote</blockquote></p>
+    <p>Mark: <mark>Texto con formato mark</mark></p>
+    <p>Cite, small & mark: <small><cite>Texto con formato <mark>cite, small & mark</mark></cite></small></p>
+    <p>Subíndice: <sub>Texto con formato sub</sub></p>
+    <p>Superíndice: <sup>Texto con formato sup</sup></p>
+    <p>Fórmula: Glucosa C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></p>
+    <p>Var: <var>Texto con formato var</var></p>
+    <p>Code: <code>Texto con formato code</code></p>
+    <p>Keyboard: <kbd>Texto con formato kbd</kbd></p>
+    <p>Teclas rápidas:</p>
+    <p>Copy <kbd>Ctrl + C</kbd></p>
+    <p>Paste <kbd>Ctrl + V</kbd></p>
+    <p>Cut <kbd>Ctrl + X</kbd></p>
+    <p>Save <kbd>Ctrl + S</kbd></p>
+    <p>New <kbd>Ctrl + N</kbd></p>
+    <p>Undo <kbd>Ctrl + Z</kbd></p>
+    <p>Redo <kbd>Ctrl + Y</kbd></p>
+    <p>Refresh <kbd>Ctrl + R</kbd></p>
+    <p>Preformato: <pre>Texto con formato predefinido</pre></p>
+</body>
+</html>
