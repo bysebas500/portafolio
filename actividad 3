@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unidad 1 | Actividad 03:: Tema (Párrafo)</title>
+</head>
+<body>
+    <h1>Unidad 1 | Actividad 03:: Tema (Párrafo)</h1>
+
+    <p style="text-align: center;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Odio et tempor tortor hendrerit feugiat urna fermentum nisi. Donec risus fe.
+    </p>
+
+    <p style="text-align: right;">
+        Lacus elementum morbi euismod enim faucibus nulla vitae proin viverra. Vivamus dictumst porta scelerisque fringilla dapibus lorem.
+    </p>
+
+    <p style="text-align: justify;">
+        Nisi phasellus a semper quisque magna. Platea nisl laoreet viverra suspendisse litora; posuere vivamus magna. Ac feugiat eu mi nec.
+    </p>
+</body>
+</html>
