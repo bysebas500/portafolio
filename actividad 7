@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unidad 1 | Actividad 07</title>
+</head>
+<body>
+    <h1>Unidad 1 | Actividad 07:: Tema (Enlaces)</h1>
+
+    <a href="https://www.upslp.edu.mx/upslp/">UPSLP</a> <br>
+    <a href="Actividad 04-1.html">Ver Actividad 4.1</a> <br>
+    <a href="archivos/construccion.jpg" target="_blank">Ver imágen...</a> <br>
+    <a href="archivos/ahorcado.cpp" target="blank">Ver código...</a> <br>
+    <a href="archivos/javascript.html" target="_blank">Ver página web...</a>
+</body>
+</html>
